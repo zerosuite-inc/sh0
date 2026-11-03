@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question on Discord
+    url: https://sh0.dev/discord
+    about: Questions, setup help and feature ideas. The sh0 team answers in #help.
+  - name: Documentation
+    url: https://sh0.dev/docs
+    about: Installation, deployment and configuration guides.
